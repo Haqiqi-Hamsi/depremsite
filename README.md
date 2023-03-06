@@ -2,4 +2,4 @@
 Türkiye'de olan tüm depremleri web sitesi üzerinden size aktaran bir site
 
 
-Haqiqi Hamsi
+Discord: Haqiqi Hamsi#8882
