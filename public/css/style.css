@@ -1,0 +1,63 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 20px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+th, td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+th {
+  background-color: #f2f2f2;
+}
+
+tr:hover {
+  background-color: #f5f5f5;
+}
+
+footer {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 20px;
+  bottom: 0;
+  width: 100%;
+  position: fixed;
+  left: 0;
+}
+
+.mag-red {
+  color: #ff0000;
+}
+
+.mag-yellow {
+  color: #ffcc00;
+}
+
+.mag-green {
+  color: #00cc00;
+}
+header {
+  display: flex;
+  align-items: center;
+}
+
+header img {
+  width: 100px;
+  height: auto;
+  margin-right: 20px;
+}
