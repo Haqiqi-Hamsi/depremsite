@@ -1,0 +1,5 @@
+# depremsite
+Türkiye'de olan tüm depremleri web sitesi üzerinden size aktaran bir site
+
+
+Haqiqi Hamsi
